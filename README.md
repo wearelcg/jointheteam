@@ -1,3 +1,3 @@
 # jointheteam
 
-## Heading one 
+## How to apply
