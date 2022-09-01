@@ -7,4 +7,4 @@
 [Software Developer Vacancy](http://lcg-hr.force.com/recruit/fRecruit__ApplyJob?vacancyNo=VN1870)
 
 ## Interview process 
-technical assessment 
+[technical assessment](https://github.com/wearelcg/jointheteam/blob/main/technicalassessment.md)
